@@ -1,6 +1,6 @@
 Name         Age Nat Prs St Tk Ps Sh Sm Ag KAb TAb PAb SAb Gam  Min Sav Con Ktk Kps Sht Gls Ass  DP Inj Sus Fit
 --------------------------------------------------------------------------------------------------------------
-F_Altamirano  31 arg   C 74 10 10 10 55 25 303 300 300 300   3  270  20   2   0   0   0   0   0   0   0   0 100
+F_Altamirano  31 arg   C 75 10 10 10 55 25   3 300 300 300   3  270  20   2   0   0   0   0   0   0   0   0 100
 Keylor_Navas  40 cos   C 71 10 10 10 30 25 891 300 300 300   1   90  10   4   0   0   0   0   0   0   0   0 100
 D_Talavera    20 arg   C 59 10 10 10 45 25 100 300 300 300   0    0   0   0   0   0   0   0   0   0   0   0 100
 Lean_Lozano   28 uru  RL 10 75 69 58 60 25 300 124 536 986   3  224   0   0   0   1   0   0   0   0   0   0 100
