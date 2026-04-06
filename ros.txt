@@ -1,6 +1,6 @@
 Name         Age Nat Prs St Tk Ps Sh Sm Ag KAb TAb PAb SAb Gam  Min Sav Con Ktk Kps Sht Gls Ass  DP Inj Sus Fit
 --------------------------------------------------------------------------------------------------------------
-Franco_Armani 40 arg   C 75 10 10 10 30 25 334 300 300 300   9  810  64   8   0   0   0   0   0   0   0   0 100
+Franco_Armani 40 arg   C 76 10 10 10 30 25  34 300 300 300   9  810  64   8   0   0   0   0   0   0   0   0 100
 Roberto_Leon  25 arg   C 60 10 10 10 55 25 650 300 300 300   0    0   0   0   0   0   0   0   0   0   0   0 100
 Leo_Sosa      19 par   C 59 10 10 10 45 25 300 300 300 300   0    0   0   0   0   0   0   0   0   0   0   0 100
 Naza_Colombo  28 arg   C 10 75 53 45 60 25 300 616 848 521   9  727   0   0  10   4   4   0   0   0   0   0  97
